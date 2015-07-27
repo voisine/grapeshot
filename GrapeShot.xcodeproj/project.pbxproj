@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 47;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -13,6 +13,7 @@
 		752972751B65E80900BE756D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 752972741B65E80900BE756D /* Images.xcassets */; };
 		752972781B65E80900BE756D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 752972761B65E80900BE756D /* LaunchScreen.xib */; };
 		752972841B65E80A00BE756D /* GrapeShotTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 752972831B65E80A00BE756D /* GrapeShotTests.swift */; };
+		75B84D0F1B66181D00248832 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D0E1B66181D00248832 /* Localizable.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		7529727D1B65E80A00BE756D /* GrapeShotTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GrapeShotTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		752972821B65E80A00BE756D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		752972831B65E80A00BE756D /* GrapeShotTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GrapeShotTests.swift; sourceTree = "<group>"; };
+		75B84D0E1B66181D00248832 /* Localizable.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 			isa = PBXGroup;
 			children = (
 				7529726C1B65E80900BE756D /* Info.plist */,
+				75B84D0E1B66181D00248832 /* Localizable.strings */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -169,7 +172,7 @@
 				};
 			};
 			buildConfigurationList = 752972631B65E80900BE756D /* Build configuration list for PBXProject "GrapeShot" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 6.3";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				752972731B65E80900BE756D /* Main.storyboard in Resources */,
+				75B84D0F1B66181D00248832 /* Localizable.strings in Resources */,
 				752972781B65E80900BE756D /* LaunchScreen.xib in Resources */,
 				752972751B65E80900BE756D /* Images.xcassets in Resources */,
 			);
@@ -409,6 +413,7 @@
 				752972891B65E80A00BE756D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7529728A1B65E80A00BE756D /* Build configuration list for PBXNativeTarget "GrapeShotTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +422,7 @@
 				7529728C1B65E80A00BE756D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
