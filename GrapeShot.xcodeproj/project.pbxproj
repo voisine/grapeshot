@@ -13,7 +13,97 @@
 		752972751B65E80900BE756D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 752972741B65E80900BE756D /* Images.xcassets */; };
 		752972781B65E80900BE756D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 752972761B65E80900BE756D /* LaunchScreen.xib */; };
 		752972841B65E80A00BE756D /* GrapeShotTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 752972831B65E80A00BE756D /* GrapeShotTests.swift */; };
-		75B84D0F1B66181D00248832 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D0E1B66181D00248832 /* Localizable.strings */; };
+		75B84D6B1B67156900248832 /* da-DK-iPhone5-0-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D111B67156900248832 /* da-DK-iPhone5-0-portrait.png */; };
+		75B84D6C1B67156900248832 /* da-DK-iPhone5-1-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D121B67156900248832 /* da-DK-iPhone5-1-portrait.png */; };
+		75B84D6D1B67156900248832 /* da-DK-iPhone5-2-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D131B67156900248832 /* da-DK-iPhone5-2-portrait.png */; };
+		75B84D6E1B67156900248832 /* da-DK-iPhone5-3-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D141B67156900248832 /* da-DK-iPhone5-3-portrait.png */; };
+		75B84D6F1B67156900248832 /* da-DK-iPhone5-4-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D151B67156900248832 /* da-DK-iPhone5-4-portrait.png */; };
+		75B84D701B67156900248832 /* de-DE-iPhone5-0-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D161B67156900248832 /* de-DE-iPhone5-0-portrait.png */; };
+		75B84D711B67156900248832 /* de-DE-iPhone5-1-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D171B67156900248832 /* de-DE-iPhone5-1-portrait.png */; };
+		75B84D721B67156900248832 /* de-DE-iPhone5-2-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D181B67156900248832 /* de-DE-iPhone5-2-portrait.png */; };
+		75B84D731B67156900248832 /* de-DE-iPhone5-3-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D191B67156900248832 /* de-DE-iPhone5-3-portrait.png */; };
+		75B84D741B67156900248832 /* de-DE-iPhone5-4-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D1A1B67156900248832 /* de-DE-iPhone5-4-portrait.png */; };
+		75B84D751B67156900248832 /* el-GR-iPhone5-0-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D1B1B67156900248832 /* el-GR-iPhone5-0-portrait.png */; };
+		75B84D761B67156900248832 /* el-GR-iPhone5-1-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D1C1B67156900248832 /* el-GR-iPhone5-1-portrait.png */; };
+		75B84D771B67156900248832 /* el-GR-iPhone5-2-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D1D1B67156900248832 /* el-GR-iPhone5-2-portrait.png */; };
+		75B84D781B67156900248832 /* el-GR-iPhone5-3-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D1E1B67156900248832 /* el-GR-iPhone5-3-portrait.png */; };
+		75B84D791B67156900248832 /* el-GR-iPhone5-4-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D1F1B67156900248832 /* el-GR-iPhone5-4-portrait.png */; };
+		75B84D7A1B67156900248832 /* en-US-iPhone5-0-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D201B67156900248832 /* en-US-iPhone5-0-portrait.png */; };
+		75B84D7B1B67156900248832 /* en-US-iPhone5-1-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D211B67156900248832 /* en-US-iPhone5-1-portrait.png */; };
+		75B84D7C1B67156900248832 /* en-US-iPhone5-2-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D221B67156900248832 /* en-US-iPhone5-2-portrait.png */; };
+		75B84D7D1B67156900248832 /* en-US-iPhone5-3-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D231B67156900248832 /* en-US-iPhone5-3-portrait.png */; };
+		75B84D7E1B67156900248832 /* en-US-iPhone5-4-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D241B67156900248832 /* en-US-iPhone5-4-portrait.png */; };
+		75B84D7F1B67156900248832 /* es-ES-iPhone5-0-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D251B67156900248832 /* es-ES-iPhone5-0-portrait.png */; };
+		75B84D801B67156900248832 /* es-ES-iPhone5-1-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D261B67156900248832 /* es-ES-iPhone5-1-portrait.png */; };
+		75B84D811B67156900248832 /* es-ES-iPhone5-2-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D271B67156900248832 /* es-ES-iPhone5-2-portrait.png */; };
+		75B84D821B67156900248832 /* es-ES-iPhone5-3-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D281B67156900248832 /* es-ES-iPhone5-3-portrait.png */; };
+		75B84D831B67156900248832 /* es-ES-iPhone5-4-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D291B67156900248832 /* es-ES-iPhone5-4-portrait.png */; };
+		75B84D841B67156900248832 /* fr-FR-iPhone5-0-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D2A1B67156900248832 /* fr-FR-iPhone5-0-portrait.png */; };
+		75B84D851B67156900248832 /* fr-FR-iPhone5-1-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D2B1B67156900248832 /* fr-FR-iPhone5-1-portrait.png */; };
+		75B84D861B67156900248832 /* fr-FR-iPhone5-2-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D2C1B67156900248832 /* fr-FR-iPhone5-2-portrait.png */; };
+		75B84D871B67156900248832 /* fr-FR-iPhone5-3-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D2D1B67156900248832 /* fr-FR-iPhone5-3-portrait.png */; };
+		75B84D881B67156900248832 /* fr-FR-iPhone5-4-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D2E1B67156900248832 /* fr-FR-iPhone5-4-portrait.png */; };
+		75B84D891B67156900248832 /* hu-HU-iPhone5-0-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D2F1B67156900248832 /* hu-HU-iPhone5-0-portrait.png */; };
+		75B84D8A1B67156900248832 /* hu-HU-iPhone5-1-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D301B67156900248832 /* hu-HU-iPhone5-1-portrait.png */; };
+		75B84D8B1B67156900248832 /* hu-HU-iPhone5-2-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D311B67156900248832 /* hu-HU-iPhone5-2-portrait.png */; };
+		75B84D8C1B67156900248832 /* hu-HU-iPhone5-3-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D321B67156900248832 /* hu-HU-iPhone5-3-portrait.png */; };
+		75B84D8D1B67156900248832 /* hu-HU-iPhone5-4-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D331B67156900248832 /* hu-HU-iPhone5-4-portrait.png */; };
+		75B84D8E1B67156900248832 /* it-IT-iPhone5-0-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D341B67156900248832 /* it-IT-iPhone5-0-portrait.png */; };
+		75B84D8F1B67156900248832 /* it-IT-iPhone5-1-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D351B67156900248832 /* it-IT-iPhone5-1-portrait.png */; };
+		75B84D901B67156900248832 /* it-IT-iPhone5-2-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D361B67156900248832 /* it-IT-iPhone5-2-portrait.png */; };
+		75B84D911B67156900248832 /* it-IT-iPhone5-3-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D371B67156900248832 /* it-IT-iPhone5-3-portrait.png */; };
+		75B84D921B67156900248832 /* it-IT-iPhone5-4-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D381B67156900248832 /* it-IT-iPhone5-4-portrait.png */; };
+		75B84D931B67156900248832 /* ja-JP-iPhone5-0-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D391B67156900248832 /* ja-JP-iPhone5-0-portrait.png */; };
+		75B84D941B67156900248832 /* ja-JP-iPhone5-1-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D3A1B67156900248832 /* ja-JP-iPhone5-1-portrait.png */; };
+		75B84D951B67156900248832 /* ja-JP-iPhone5-2-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D3B1B67156900248832 /* ja-JP-iPhone5-2-portrait.png */; };
+		75B84D961B67156900248832 /* ja-JP-iPhone5-3-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D3C1B67156900248832 /* ja-JP-iPhone5-3-portrait.png */; };
+		75B84D971B67156900248832 /* ja-JP-iPhone5-4-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D3D1B67156900248832 /* ja-JP-iPhone5-4-portrait.png */; };
+		75B84D981B67156900248832 /* ko-KR-iPhone5-0-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D3E1B67156900248832 /* ko-KR-iPhone5-0-portrait.png */; };
+		75B84D991B67156900248832 /* ko-KR-iPhone5-1-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D3F1B67156900248832 /* ko-KR-iPhone5-1-portrait.png */; };
+		75B84D9A1B67156900248832 /* ko-KR-iPhone5-2-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D401B67156900248832 /* ko-KR-iPhone5-2-portrait.png */; };
+		75B84D9B1B67156900248832 /* ko-KR-iPhone5-3-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D411B67156900248832 /* ko-KR-iPhone5-3-portrait.png */; };
+		75B84D9C1B67156900248832 /* ko-KR-iPhone5-4-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D421B67156900248832 /* ko-KR-iPhone5-4-portrait.png */; };
+		75B84D9D1B67156900248832 /* nb-NO-iPhone5-0-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D431B67156900248832 /* nb-NO-iPhone5-0-portrait.png */; };
+		75B84D9E1B67156900248832 /* nb-NO-iPhone5-1-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D441B67156900248832 /* nb-NO-iPhone5-1-portrait.png */; };
+		75B84D9F1B67156900248832 /* nb-NO-iPhone5-2-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D451B67156900248832 /* nb-NO-iPhone5-2-portrait.png */; };
+		75B84DA01B67156900248832 /* nb-NO-iPhone5-3-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D461B67156900248832 /* nb-NO-iPhone5-3-portrait.png */; };
+		75B84DA11B67156900248832 /* nb-NO-iPhone5-4-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D471B67156900248832 /* nb-NO-iPhone5-4-portrait.png */; };
+		75B84DA21B67156900248832 /* nl-NL-iPhone5-0-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D481B67156900248832 /* nl-NL-iPhone5-0-portrait.png */; };
+		75B84DA31B67156900248832 /* nl-NL-iPhone5-1-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D491B67156900248832 /* nl-NL-iPhone5-1-portrait.png */; };
+		75B84DA41B67156900248832 /* nl-NL-iPhone5-2-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D4A1B67156900248832 /* nl-NL-iPhone5-2-portrait.png */; };
+		75B84DA51B67156900248832 /* nl-NL-iPhone5-3-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D4B1B67156900248832 /* nl-NL-iPhone5-3-portrait.png */; };
+		75B84DA61B67156900248832 /* nl-NL-iPhone5-4-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D4C1B67156900248832 /* nl-NL-iPhone5-4-portrait.png */; };
+		75B84DA71B67156900248832 /* pl-PL-iPhone5-0-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D4D1B67156900248832 /* pl-PL-iPhone5-0-portrait.png */; };
+		75B84DA81B67156900248832 /* pl-PL-iPhone5-1-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D4E1B67156900248832 /* pl-PL-iPhone5-1-portrait.png */; };
+		75B84DA91B67156900248832 /* pl-PL-iPhone5-2-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D4F1B67156900248832 /* pl-PL-iPhone5-2-portrait.png */; };
+		75B84DAA1B67156900248832 /* pl-PL-iPhone5-3-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D501B67156900248832 /* pl-PL-iPhone5-3-portrait.png */; };
+		75B84DAB1B67156900248832 /* pl-PL-iPhone5-4-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D511B67156900248832 /* pl-PL-iPhone5-4-portrait.png */; };
+		75B84DAC1B67156900248832 /* ru-RU-iPhone5-0-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D521B67156900248832 /* ru-RU-iPhone5-0-portrait.png */; };
+		75B84DAD1B67156900248832 /* ru-RU-iPhone5-1-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D531B67156900248832 /* ru-RU-iPhone5-1-portrait.png */; };
+		75B84DAE1B67156900248832 /* ru-RU-iPhone5-2-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D541B67156900248832 /* ru-RU-iPhone5-2-portrait.png */; };
+		75B84DAF1B67156900248832 /* ru-RU-iPhone5-3-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D551B67156900248832 /* ru-RU-iPhone5-3-portrait.png */; };
+		75B84DB01B67156900248832 /* ru-RU-iPhone5-4-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D561B67156900248832 /* ru-RU-iPhone5-4-portrait.png */; };
+		75B84DB11B67156900248832 /* sq-AL-iPhone5-0-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D571B67156900248832 /* sq-AL-iPhone5-0-portrait.png */; };
+		75B84DB21B67156900248832 /* sq-AL-iPhone5-1-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D581B67156900248832 /* sq-AL-iPhone5-1-portrait.png */; };
+		75B84DB31B67156900248832 /* sq-AL-iPhone5-2-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D591B67156900248832 /* sq-AL-iPhone5-2-portrait.png */; };
+		75B84DB41B67156900248832 /* sq-AL-iPhone5-3-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D5A1B67156900248832 /* sq-AL-iPhone5-3-portrait.png */; };
+		75B84DB51B67156900248832 /* sq-AL-iPhone5-4-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D5B1B67156900248832 /* sq-AL-iPhone5-4-portrait.png */; };
+		75B84DB61B67156900248832 /* sv-SE-iPhone5-0-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D5C1B67156900248832 /* sv-SE-iPhone5-0-portrait.png */; };
+		75B84DB71B67156900248832 /* sv-SE-iPhone5-1-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D5D1B67156900248832 /* sv-SE-iPhone5-1-portrait.png */; };
+		75B84DB81B67156900248832 /* sv-SE-iPhone5-2-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D5E1B67156900248832 /* sv-SE-iPhone5-2-portrait.png */; };
+		75B84DB91B67156900248832 /* sv-SE-iPhone5-3-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D5F1B67156900248832 /* sv-SE-iPhone5-3-portrait.png */; };
+		75B84DBA1B67156900248832 /* sv-SE-iPhone5-4-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D601B67156900248832 /* sv-SE-iPhone5-4-portrait.png */; };
+		75B84DBB1B67156900248832 /* tr-TR-iPhone5-0-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D611B67156900248832 /* tr-TR-iPhone5-0-portrait.png */; };
+		75B84DBC1B67156900248832 /* tr-TR-iPhone5-1-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D621B67156900248832 /* tr-TR-iPhone5-1-portrait.png */; };
+		75B84DBD1B67156900248832 /* tr-TR-iPhone5-2-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D631B67156900248832 /* tr-TR-iPhone5-2-portrait.png */; };
+		75B84DBE1B67156900248832 /* tr-TR-iPhone5-3-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D641B67156900248832 /* tr-TR-iPhone5-3-portrait.png */; };
+		75B84DBF1B67156900248832 /* tr-TR-iPhone5-4-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D651B67156900248832 /* tr-TR-iPhone5-4-portrait.png */; };
+		75B84DC01B67156900248832 /* zh_CN-iPhone5-0-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D661B67156900248832 /* zh_CN-iPhone5-0-portrait.png */; };
+		75B84DC11B67156900248832 /* zh_CN-iPhone5-1-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D671B67156900248832 /* zh_CN-iPhone5-1-portrait.png */; };
+		75B84DC21B67156900248832 /* zh_CN-iPhone5-2-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D681B67156900248832 /* zh_CN-iPhone5-2-portrait.png */; };
+		75B84DC31B67156900248832 /* zh_CN-iPhone5-3-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D691B67156900248832 /* zh_CN-iPhone5-3-portrait.png */; };
+		75B84DC41B67156900248832 /* zh_CN-iPhone5-4-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = 75B84D6A1B67156900248832 /* zh_CN-iPhone5-4-portrait.png */; };
+		75B84DC51B672EAA00248832 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 75B84DC71B672EAA00248832 /* Localizable.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,7 +127,114 @@
 		7529727D1B65E80A00BE756D /* GrapeShotTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GrapeShotTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		752972821B65E80A00BE756D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		752972831B65E80A00BE756D /* GrapeShotTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GrapeShotTests.swift; sourceTree = "<group>"; };
-		75B84D0E1B66181D00248832 /* Localizable.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
+		75B84D111B67156900248832 /* da-DK-iPhone5-0-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "da-DK-iPhone5-0-portrait.png"; sourceTree = "<group>"; };
+		75B84D121B67156900248832 /* da-DK-iPhone5-1-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "da-DK-iPhone5-1-portrait.png"; sourceTree = "<group>"; };
+		75B84D131B67156900248832 /* da-DK-iPhone5-2-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "da-DK-iPhone5-2-portrait.png"; sourceTree = "<group>"; };
+		75B84D141B67156900248832 /* da-DK-iPhone5-3-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "da-DK-iPhone5-3-portrait.png"; sourceTree = "<group>"; };
+		75B84D151B67156900248832 /* da-DK-iPhone5-4-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "da-DK-iPhone5-4-portrait.png"; sourceTree = "<group>"; };
+		75B84D161B67156900248832 /* de-DE-iPhone5-0-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "de-DE-iPhone5-0-portrait.png"; sourceTree = "<group>"; };
+		75B84D171B67156900248832 /* de-DE-iPhone5-1-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "de-DE-iPhone5-1-portrait.png"; sourceTree = "<group>"; };
+		75B84D181B67156900248832 /* de-DE-iPhone5-2-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "de-DE-iPhone5-2-portrait.png"; sourceTree = "<group>"; };
+		75B84D191B67156900248832 /* de-DE-iPhone5-3-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "de-DE-iPhone5-3-portrait.png"; sourceTree = "<group>"; };
+		75B84D1A1B67156900248832 /* de-DE-iPhone5-4-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "de-DE-iPhone5-4-portrait.png"; sourceTree = "<group>"; };
+		75B84D1B1B67156900248832 /* el-GR-iPhone5-0-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "el-GR-iPhone5-0-portrait.png"; sourceTree = "<group>"; };
+		75B84D1C1B67156900248832 /* el-GR-iPhone5-1-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "el-GR-iPhone5-1-portrait.png"; sourceTree = "<group>"; };
+		75B84D1D1B67156900248832 /* el-GR-iPhone5-2-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "el-GR-iPhone5-2-portrait.png"; sourceTree = "<group>"; };
+		75B84D1E1B67156900248832 /* el-GR-iPhone5-3-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "el-GR-iPhone5-3-portrait.png"; sourceTree = "<group>"; };
+		75B84D1F1B67156900248832 /* el-GR-iPhone5-4-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "el-GR-iPhone5-4-portrait.png"; sourceTree = "<group>"; };
+		75B84D201B67156900248832 /* en-US-iPhone5-0-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "en-US-iPhone5-0-portrait.png"; sourceTree = "<group>"; };
+		75B84D211B67156900248832 /* en-US-iPhone5-1-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "en-US-iPhone5-1-portrait.png"; sourceTree = "<group>"; };
+		75B84D221B67156900248832 /* en-US-iPhone5-2-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "en-US-iPhone5-2-portrait.png"; sourceTree = "<group>"; };
+		75B84D231B67156900248832 /* en-US-iPhone5-3-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "en-US-iPhone5-3-portrait.png"; sourceTree = "<group>"; };
+		75B84D241B67156900248832 /* en-US-iPhone5-4-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "en-US-iPhone5-4-portrait.png"; sourceTree = "<group>"; };
+		75B84D251B67156900248832 /* es-ES-iPhone5-0-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "es-ES-iPhone5-0-portrait.png"; sourceTree = "<group>"; };
+		75B84D261B67156900248832 /* es-ES-iPhone5-1-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "es-ES-iPhone5-1-portrait.png"; sourceTree = "<group>"; };
+		75B84D271B67156900248832 /* es-ES-iPhone5-2-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "es-ES-iPhone5-2-portrait.png"; sourceTree = "<group>"; };
+		75B84D281B67156900248832 /* es-ES-iPhone5-3-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "es-ES-iPhone5-3-portrait.png"; sourceTree = "<group>"; };
+		75B84D291B67156900248832 /* es-ES-iPhone5-4-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "es-ES-iPhone5-4-portrait.png"; sourceTree = "<group>"; };
+		75B84D2A1B67156900248832 /* fr-FR-iPhone5-0-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fr-FR-iPhone5-0-portrait.png"; sourceTree = "<group>"; };
+		75B84D2B1B67156900248832 /* fr-FR-iPhone5-1-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fr-FR-iPhone5-1-portrait.png"; sourceTree = "<group>"; };
+		75B84D2C1B67156900248832 /* fr-FR-iPhone5-2-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fr-FR-iPhone5-2-portrait.png"; sourceTree = "<group>"; };
+		75B84D2D1B67156900248832 /* fr-FR-iPhone5-3-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fr-FR-iPhone5-3-portrait.png"; sourceTree = "<group>"; };
+		75B84D2E1B67156900248832 /* fr-FR-iPhone5-4-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fr-FR-iPhone5-4-portrait.png"; sourceTree = "<group>"; };
+		75B84D2F1B67156900248832 /* hu-HU-iPhone5-0-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hu-HU-iPhone5-0-portrait.png"; sourceTree = "<group>"; };
+		75B84D301B67156900248832 /* hu-HU-iPhone5-1-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hu-HU-iPhone5-1-portrait.png"; sourceTree = "<group>"; };
+		75B84D311B67156900248832 /* hu-HU-iPhone5-2-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hu-HU-iPhone5-2-portrait.png"; sourceTree = "<group>"; };
+		75B84D321B67156900248832 /* hu-HU-iPhone5-3-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hu-HU-iPhone5-3-portrait.png"; sourceTree = "<group>"; };
+		75B84D331B67156900248832 /* hu-HU-iPhone5-4-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "hu-HU-iPhone5-4-portrait.png"; sourceTree = "<group>"; };
+		75B84D341B67156900248832 /* it-IT-iPhone5-0-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "it-IT-iPhone5-0-portrait.png"; sourceTree = "<group>"; };
+		75B84D351B67156900248832 /* it-IT-iPhone5-1-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "it-IT-iPhone5-1-portrait.png"; sourceTree = "<group>"; };
+		75B84D361B67156900248832 /* it-IT-iPhone5-2-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "it-IT-iPhone5-2-portrait.png"; sourceTree = "<group>"; };
+		75B84D371B67156900248832 /* it-IT-iPhone5-3-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "it-IT-iPhone5-3-portrait.png"; sourceTree = "<group>"; };
+		75B84D381B67156900248832 /* it-IT-iPhone5-4-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "it-IT-iPhone5-4-portrait.png"; sourceTree = "<group>"; };
+		75B84D391B67156900248832 /* ja-JP-iPhone5-0-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ja-JP-iPhone5-0-portrait.png"; sourceTree = "<group>"; };
+		75B84D3A1B67156900248832 /* ja-JP-iPhone5-1-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ja-JP-iPhone5-1-portrait.png"; sourceTree = "<group>"; };
+		75B84D3B1B67156900248832 /* ja-JP-iPhone5-2-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ja-JP-iPhone5-2-portrait.png"; sourceTree = "<group>"; };
+		75B84D3C1B67156900248832 /* ja-JP-iPhone5-3-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ja-JP-iPhone5-3-portrait.png"; sourceTree = "<group>"; };
+		75B84D3D1B67156900248832 /* ja-JP-iPhone5-4-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ja-JP-iPhone5-4-portrait.png"; sourceTree = "<group>"; };
+		75B84D3E1B67156900248832 /* ko-KR-iPhone5-0-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ko-KR-iPhone5-0-portrait.png"; sourceTree = "<group>"; };
+		75B84D3F1B67156900248832 /* ko-KR-iPhone5-1-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ko-KR-iPhone5-1-portrait.png"; sourceTree = "<group>"; };
+		75B84D401B67156900248832 /* ko-KR-iPhone5-2-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ko-KR-iPhone5-2-portrait.png"; sourceTree = "<group>"; };
+		75B84D411B67156900248832 /* ko-KR-iPhone5-3-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ko-KR-iPhone5-3-portrait.png"; sourceTree = "<group>"; };
+		75B84D421B67156900248832 /* ko-KR-iPhone5-4-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ko-KR-iPhone5-4-portrait.png"; sourceTree = "<group>"; };
+		75B84D431B67156900248832 /* nb-NO-iPhone5-0-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "nb-NO-iPhone5-0-portrait.png"; sourceTree = "<group>"; };
+		75B84D441B67156900248832 /* nb-NO-iPhone5-1-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "nb-NO-iPhone5-1-portrait.png"; sourceTree = "<group>"; };
+		75B84D451B67156900248832 /* nb-NO-iPhone5-2-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "nb-NO-iPhone5-2-portrait.png"; sourceTree = "<group>"; };
+		75B84D461B67156900248832 /* nb-NO-iPhone5-3-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "nb-NO-iPhone5-3-portrait.png"; sourceTree = "<group>"; };
+		75B84D471B67156900248832 /* nb-NO-iPhone5-4-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "nb-NO-iPhone5-4-portrait.png"; sourceTree = "<group>"; };
+		75B84D481B67156900248832 /* nl-NL-iPhone5-0-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "nl-NL-iPhone5-0-portrait.png"; sourceTree = "<group>"; };
+		75B84D491B67156900248832 /* nl-NL-iPhone5-1-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "nl-NL-iPhone5-1-portrait.png"; sourceTree = "<group>"; };
+		75B84D4A1B67156900248832 /* nl-NL-iPhone5-2-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "nl-NL-iPhone5-2-portrait.png"; sourceTree = "<group>"; };
+		75B84D4B1B67156900248832 /* nl-NL-iPhone5-3-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "nl-NL-iPhone5-3-portrait.png"; sourceTree = "<group>"; };
+		75B84D4C1B67156900248832 /* nl-NL-iPhone5-4-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "nl-NL-iPhone5-4-portrait.png"; sourceTree = "<group>"; };
+		75B84D4D1B67156900248832 /* pl-PL-iPhone5-0-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pl-PL-iPhone5-0-portrait.png"; sourceTree = "<group>"; };
+		75B84D4E1B67156900248832 /* pl-PL-iPhone5-1-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pl-PL-iPhone5-1-portrait.png"; sourceTree = "<group>"; };
+		75B84D4F1B67156900248832 /* pl-PL-iPhone5-2-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pl-PL-iPhone5-2-portrait.png"; sourceTree = "<group>"; };
+		75B84D501B67156900248832 /* pl-PL-iPhone5-3-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pl-PL-iPhone5-3-portrait.png"; sourceTree = "<group>"; };
+		75B84D511B67156900248832 /* pl-PL-iPhone5-4-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pl-PL-iPhone5-4-portrait.png"; sourceTree = "<group>"; };
+		75B84D521B67156900248832 /* ru-RU-iPhone5-0-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ru-RU-iPhone5-0-portrait.png"; sourceTree = "<group>"; };
+		75B84D531B67156900248832 /* ru-RU-iPhone5-1-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ru-RU-iPhone5-1-portrait.png"; sourceTree = "<group>"; };
+		75B84D541B67156900248832 /* ru-RU-iPhone5-2-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ru-RU-iPhone5-2-portrait.png"; sourceTree = "<group>"; };
+		75B84D551B67156900248832 /* ru-RU-iPhone5-3-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ru-RU-iPhone5-3-portrait.png"; sourceTree = "<group>"; };
+		75B84D561B67156900248832 /* ru-RU-iPhone5-4-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ru-RU-iPhone5-4-portrait.png"; sourceTree = "<group>"; };
+		75B84D571B67156900248832 /* sq-AL-iPhone5-0-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sq-AL-iPhone5-0-portrait.png"; sourceTree = "<group>"; };
+		75B84D581B67156900248832 /* sq-AL-iPhone5-1-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sq-AL-iPhone5-1-portrait.png"; sourceTree = "<group>"; };
+		75B84D591B67156900248832 /* sq-AL-iPhone5-2-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sq-AL-iPhone5-2-portrait.png"; sourceTree = "<group>"; };
+		75B84D5A1B67156900248832 /* sq-AL-iPhone5-3-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sq-AL-iPhone5-3-portrait.png"; sourceTree = "<group>"; };
+		75B84D5B1B67156900248832 /* sq-AL-iPhone5-4-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sq-AL-iPhone5-4-portrait.png"; sourceTree = "<group>"; };
+		75B84D5C1B67156900248832 /* sv-SE-iPhone5-0-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sv-SE-iPhone5-0-portrait.png"; sourceTree = "<group>"; };
+		75B84D5D1B67156900248832 /* sv-SE-iPhone5-1-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sv-SE-iPhone5-1-portrait.png"; sourceTree = "<group>"; };
+		75B84D5E1B67156900248832 /* sv-SE-iPhone5-2-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sv-SE-iPhone5-2-portrait.png"; sourceTree = "<group>"; };
+		75B84D5F1B67156900248832 /* sv-SE-iPhone5-3-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sv-SE-iPhone5-3-portrait.png"; sourceTree = "<group>"; };
+		75B84D601B67156900248832 /* sv-SE-iPhone5-4-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sv-SE-iPhone5-4-portrait.png"; sourceTree = "<group>"; };
+		75B84D611B67156900248832 /* tr-TR-iPhone5-0-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tr-TR-iPhone5-0-portrait.png"; sourceTree = "<group>"; };
+		75B84D621B67156900248832 /* tr-TR-iPhone5-1-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tr-TR-iPhone5-1-portrait.png"; sourceTree = "<group>"; };
+		75B84D631B67156900248832 /* tr-TR-iPhone5-2-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tr-TR-iPhone5-2-portrait.png"; sourceTree = "<group>"; };
+		75B84D641B67156900248832 /* tr-TR-iPhone5-3-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tr-TR-iPhone5-3-portrait.png"; sourceTree = "<group>"; };
+		75B84D651B67156900248832 /* tr-TR-iPhone5-4-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tr-TR-iPhone5-4-portrait.png"; sourceTree = "<group>"; };
+		75B84D661B67156900248832 /* zh_CN-iPhone5-0-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "zh_CN-iPhone5-0-portrait.png"; sourceTree = "<group>"; };
+		75B84D671B67156900248832 /* zh_CN-iPhone5-1-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "zh_CN-iPhone5-1-portrait.png"; sourceTree = "<group>"; };
+		75B84D681B67156900248832 /* zh_CN-iPhone5-2-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "zh_CN-iPhone5-2-portrait.png"; sourceTree = "<group>"; };
+		75B84D691B67156900248832 /* zh_CN-iPhone5-3-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "zh_CN-iPhone5-3-portrait.png"; sourceTree = "<group>"; };
+		75B84D6A1B67156900248832 /* zh_CN-iPhone5-4-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "zh_CN-iPhone5-4-portrait.png"; sourceTree = "<group>"; };
+		75B84DC61B672EAA00248832 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		75B84DC81B672EC900248832 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
+		75B84DC91B672ED200248832 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		75B84DCA1B672EDB00248832 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
+		75B84DCB1B672EE500248832 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Localizable.strings; sourceTree = "<group>"; };
+		75B84DCC1B672EEE00248832 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
+		75B84DCD1B672EFB00248832 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/Localizable.strings; sourceTree = "<group>"; };
+		75B84DCE1B672F0E00248832 /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/Localizable.strings; sourceTree = "<group>"; };
+		75B84DCF1B672F1800248832 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/Localizable.strings; sourceTree = "<group>"; };
+		75B84DD01B672F2300248832 /* da */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = da; path = da.lproj/Localizable.strings; sourceTree = "<group>"; };
+		75B84DD11B672F2F00248832 /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/Localizable.strings; sourceTree = "<group>"; };
+		75B84DD21B672F4B00248832 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/Localizable.strings; sourceTree = "<group>"; };
+		75B84DD31B672F5300248832 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
+		75B84DD41B672F6F00248832 /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Localizable.strings; sourceTree = "<group>"; };
+		75B84DD51B672F8100248832 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/Localizable.strings; sourceTree = "<group>"; };
+		75B84DD61B672F9000248832 /* hu */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hu; path = hu.lproj/Localizable.strings; sourceTree = "<group>"; };
+		75B84DD71B672F9D00248832 /* el */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = el; path = el.lproj/Localizable.strings; sourceTree = "<group>"; };
+		75B84DD81B672FD000248832 /* sq */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sq; path = sq.lproj/Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +281,7 @@
 				752972711B65E80900BE756D /* Main.storyboard */,
 				752972741B65E80900BE756D /* Images.xcassets */,
 				752972761B65E80900BE756D /* LaunchScreen.xib */,
+				75B84D101B67156900248832 /* shots */,
 				7529726B1B65E80900BE756D /* Supporting Files */,
 			);
 			path = GrapeShot;
@@ -93,7 +291,7 @@
 			isa = PBXGroup;
 			children = (
 				7529726C1B65E80900BE756D /* Info.plist */,
-				75B84D0E1B66181D00248832 /* Localizable.strings */,
+				75B84DC71B672EAA00248832 /* Localizable.strings */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -113,6 +311,103 @@
 				752972821B65E80A00BE756D /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		75B84D101B67156900248832 /* shots */ = {
+			isa = PBXGroup;
+			children = (
+				75B84D111B67156900248832 /* da-DK-iPhone5-0-portrait.png */,
+				75B84D121B67156900248832 /* da-DK-iPhone5-1-portrait.png */,
+				75B84D131B67156900248832 /* da-DK-iPhone5-2-portrait.png */,
+				75B84D141B67156900248832 /* da-DK-iPhone5-3-portrait.png */,
+				75B84D151B67156900248832 /* da-DK-iPhone5-4-portrait.png */,
+				75B84D161B67156900248832 /* de-DE-iPhone5-0-portrait.png */,
+				75B84D171B67156900248832 /* de-DE-iPhone5-1-portrait.png */,
+				75B84D181B67156900248832 /* de-DE-iPhone5-2-portrait.png */,
+				75B84D191B67156900248832 /* de-DE-iPhone5-3-portrait.png */,
+				75B84D1A1B67156900248832 /* de-DE-iPhone5-4-portrait.png */,
+				75B84D1B1B67156900248832 /* el-GR-iPhone5-0-portrait.png */,
+				75B84D1C1B67156900248832 /* el-GR-iPhone5-1-portrait.png */,
+				75B84D1D1B67156900248832 /* el-GR-iPhone5-2-portrait.png */,
+				75B84D1E1B67156900248832 /* el-GR-iPhone5-3-portrait.png */,
+				75B84D1F1B67156900248832 /* el-GR-iPhone5-4-portrait.png */,
+				75B84D201B67156900248832 /* en-US-iPhone5-0-portrait.png */,
+				75B84D211B67156900248832 /* en-US-iPhone5-1-portrait.png */,
+				75B84D221B67156900248832 /* en-US-iPhone5-2-portrait.png */,
+				75B84D231B67156900248832 /* en-US-iPhone5-3-portrait.png */,
+				75B84D241B67156900248832 /* en-US-iPhone5-4-portrait.png */,
+				75B84D251B67156900248832 /* es-ES-iPhone5-0-portrait.png */,
+				75B84D261B67156900248832 /* es-ES-iPhone5-1-portrait.png */,
+				75B84D271B67156900248832 /* es-ES-iPhone5-2-portrait.png */,
+				75B84D281B67156900248832 /* es-ES-iPhone5-3-portrait.png */,
+				75B84D291B67156900248832 /* es-ES-iPhone5-4-portrait.png */,
+				75B84D2A1B67156900248832 /* fr-FR-iPhone5-0-portrait.png */,
+				75B84D2B1B67156900248832 /* fr-FR-iPhone5-1-portrait.png */,
+				75B84D2C1B67156900248832 /* fr-FR-iPhone5-2-portrait.png */,
+				75B84D2D1B67156900248832 /* fr-FR-iPhone5-3-portrait.png */,
+				75B84D2E1B67156900248832 /* fr-FR-iPhone5-4-portrait.png */,
+				75B84D2F1B67156900248832 /* hu-HU-iPhone5-0-portrait.png */,
+				75B84D301B67156900248832 /* hu-HU-iPhone5-1-portrait.png */,
+				75B84D311B67156900248832 /* hu-HU-iPhone5-2-portrait.png */,
+				75B84D321B67156900248832 /* hu-HU-iPhone5-3-portrait.png */,
+				75B84D331B67156900248832 /* hu-HU-iPhone5-4-portrait.png */,
+				75B84D341B67156900248832 /* it-IT-iPhone5-0-portrait.png */,
+				75B84D351B67156900248832 /* it-IT-iPhone5-1-portrait.png */,
+				75B84D361B67156900248832 /* it-IT-iPhone5-2-portrait.png */,
+				75B84D371B67156900248832 /* it-IT-iPhone5-3-portrait.png */,
+				75B84D381B67156900248832 /* it-IT-iPhone5-4-portrait.png */,
+				75B84D391B67156900248832 /* ja-JP-iPhone5-0-portrait.png */,
+				75B84D3A1B67156900248832 /* ja-JP-iPhone5-1-portrait.png */,
+				75B84D3B1B67156900248832 /* ja-JP-iPhone5-2-portrait.png */,
+				75B84D3C1B67156900248832 /* ja-JP-iPhone5-3-portrait.png */,
+				75B84D3D1B67156900248832 /* ja-JP-iPhone5-4-portrait.png */,
+				75B84D3E1B67156900248832 /* ko-KR-iPhone5-0-portrait.png */,
+				75B84D3F1B67156900248832 /* ko-KR-iPhone5-1-portrait.png */,
+				75B84D401B67156900248832 /* ko-KR-iPhone5-2-portrait.png */,
+				75B84D411B67156900248832 /* ko-KR-iPhone5-3-portrait.png */,
+				75B84D421B67156900248832 /* ko-KR-iPhone5-4-portrait.png */,
+				75B84D431B67156900248832 /* nb-NO-iPhone5-0-portrait.png */,
+				75B84D441B67156900248832 /* nb-NO-iPhone5-1-portrait.png */,
+				75B84D451B67156900248832 /* nb-NO-iPhone5-2-portrait.png */,
+				75B84D461B67156900248832 /* nb-NO-iPhone5-3-portrait.png */,
+				75B84D471B67156900248832 /* nb-NO-iPhone5-4-portrait.png */,
+				75B84D481B67156900248832 /* nl-NL-iPhone5-0-portrait.png */,
+				75B84D491B67156900248832 /* nl-NL-iPhone5-1-portrait.png */,
+				75B84D4A1B67156900248832 /* nl-NL-iPhone5-2-portrait.png */,
+				75B84D4B1B67156900248832 /* nl-NL-iPhone5-3-portrait.png */,
+				75B84D4C1B67156900248832 /* nl-NL-iPhone5-4-portrait.png */,
+				75B84D4D1B67156900248832 /* pl-PL-iPhone5-0-portrait.png */,
+				75B84D4E1B67156900248832 /* pl-PL-iPhone5-1-portrait.png */,
+				75B84D4F1B67156900248832 /* pl-PL-iPhone5-2-portrait.png */,
+				75B84D501B67156900248832 /* pl-PL-iPhone5-3-portrait.png */,
+				75B84D511B67156900248832 /* pl-PL-iPhone5-4-portrait.png */,
+				75B84D521B67156900248832 /* ru-RU-iPhone5-0-portrait.png */,
+				75B84D531B67156900248832 /* ru-RU-iPhone5-1-portrait.png */,
+				75B84D541B67156900248832 /* ru-RU-iPhone5-2-portrait.png */,
+				75B84D551B67156900248832 /* ru-RU-iPhone5-3-portrait.png */,
+				75B84D561B67156900248832 /* ru-RU-iPhone5-4-portrait.png */,
+				75B84D571B67156900248832 /* sq-AL-iPhone5-0-portrait.png */,
+				75B84D581B67156900248832 /* sq-AL-iPhone5-1-portrait.png */,
+				75B84D591B67156900248832 /* sq-AL-iPhone5-2-portrait.png */,
+				75B84D5A1B67156900248832 /* sq-AL-iPhone5-3-portrait.png */,
+				75B84D5B1B67156900248832 /* sq-AL-iPhone5-4-portrait.png */,
+				75B84D5C1B67156900248832 /* sv-SE-iPhone5-0-portrait.png */,
+				75B84D5D1B67156900248832 /* sv-SE-iPhone5-1-portrait.png */,
+				75B84D5E1B67156900248832 /* sv-SE-iPhone5-2-portrait.png */,
+				75B84D5F1B67156900248832 /* sv-SE-iPhone5-3-portrait.png */,
+				75B84D601B67156900248832 /* sv-SE-iPhone5-4-portrait.png */,
+				75B84D611B67156900248832 /* tr-TR-iPhone5-0-portrait.png */,
+				75B84D621B67156900248832 /* tr-TR-iPhone5-1-portrait.png */,
+				75B84D631B67156900248832 /* tr-TR-iPhone5-2-portrait.png */,
+				75B84D641B67156900248832 /* tr-TR-iPhone5-3-portrait.png */,
+				75B84D651B67156900248832 /* tr-TR-iPhone5-4-portrait.png */,
+				75B84D661B67156900248832 /* zh_CN-iPhone5-0-portrait.png */,
+				75B84D671B67156900248832 /* zh_CN-iPhone5-1-portrait.png */,
+				75B84D681B67156900248832 /* zh_CN-iPhone5-2-portrait.png */,
+				75B84D691B67156900248832 /* zh_CN-iPhone5-3-portrait.png */,
+				75B84D6A1B67156900248832 /* zh_CN-iPhone5-4-portrait.png */,
+			);
+			path = shots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -178,6 +473,23 @@
 			knownRegions = (
 				en,
 				Base,
+				fr,
+				"zh-Hans",
+				de,
+				ja,
+				es,
+				it,
+				nl,
+				ko,
+				da,
+				nb,
+				sv,
+				ru,
+				pl,
+				tr,
+				hu,
+				el,
+				sq,
 			);
 			mainGroup = 7529725F1B65E80900BE756D;
 			productRefGroup = 752972691B65E80900BE756D /* Products */;
@@ -195,10 +507,100 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				75B84D881B67156900248832 /* fr-FR-iPhone5-4-portrait.png in Resources */,
+				75B84D741B67156900248832 /* de-DE-iPhone5-4-portrait.png in Resources */,
+				75B84DAF1B67156900248832 /* ru-RU-iPhone5-3-portrait.png in Resources */,
+				75B84D9F1B67156900248832 /* nb-NO-iPhone5-2-portrait.png in Resources */,
+				75B84D8E1B67156900248832 /* it-IT-iPhone5-0-portrait.png in Resources */,
+				75B84D721B67156900248832 /* de-DE-iPhone5-2-portrait.png in Resources */,
+				75B84D901B67156900248832 /* it-IT-iPhone5-2-portrait.png in Resources */,
+				75B84DC01B67156900248832 /* zh_CN-iPhone5-0-portrait.png in Resources */,
+				75B84DB81B67156900248832 /* sv-SE-iPhone5-2-portrait.png in Resources */,
+				75B84D991B67156900248832 /* ko-KR-iPhone5-1-portrait.png in Resources */,
+				75B84D701B67156900248832 /* de-DE-iPhone5-0-portrait.png in Resources */,
+				75B84DC21B67156900248832 /* zh_CN-iPhone5-2-portrait.png in Resources */,
+				75B84DAE1B67156900248832 /* ru-RU-iPhone5-2-portrait.png in Resources */,
 				752972731B65E80900BE756D /* Main.storyboard in Resources */,
-				75B84D0F1B66181D00248832 /* Localizable.strings in Resources */,
+				75B84DC51B672EAA00248832 /* Localizable.strings in Resources */,
+				75B84D961B67156900248832 /* ja-JP-iPhone5-3-portrait.png in Resources */,
+				75B84D9B1B67156900248832 /* ko-KR-iPhone5-3-portrait.png in Resources */,
+				75B84DB91B67156900248832 /* sv-SE-iPhone5-3-portrait.png in Resources */,
+				75B84D731B67156900248832 /* de-DE-iPhone5-3-portrait.png in Resources */,
+				75B84D891B67156900248832 /* hu-HU-iPhone5-0-portrait.png in Resources */,
+				75B84DA31B67156900248832 /* nl-NL-iPhone5-1-portrait.png in Resources */,
+				75B84DAA1B67156900248832 /* pl-PL-iPhone5-3-portrait.png in Resources */,
+				75B84DB21B67156900248832 /* sq-AL-iPhone5-1-portrait.png in Resources */,
+				75B84DBA1B67156900248832 /* sv-SE-iPhone5-4-portrait.png in Resources */,
+				75B84D711B67156900248832 /* de-DE-iPhone5-1-portrait.png in Resources */,
+				75B84D7E1B67156900248832 /* en-US-iPhone5-4-portrait.png in Resources */,
+				75B84DAD1B67156900248832 /* ru-RU-iPhone5-1-portrait.png in Resources */,
+				75B84DBC1B67156900248832 /* tr-TR-iPhone5-1-portrait.png in Resources */,
+				75B84D7A1B67156900248832 /* en-US-iPhone5-0-portrait.png in Resources */,
+				75B84D771B67156900248832 /* el-GR-iPhone5-2-portrait.png in Resources */,
+				75B84D8B1B67156900248832 /* hu-HU-iPhone5-2-portrait.png in Resources */,
+				75B84DBB1B67156900248832 /* tr-TR-iPhone5-0-portrait.png in Resources */,
+				75B84D751B67156900248832 /* el-GR-iPhone5-0-portrait.png in Resources */,
+				75B84DBE1B67156900248832 /* tr-TR-iPhone5-3-portrait.png in Resources */,
+				75B84D781B67156900248832 /* el-GR-iPhone5-3-portrait.png in Resources */,
+				75B84DA91B67156900248832 /* pl-PL-iPhone5-2-portrait.png in Resources */,
+				75B84D8D1B67156900248832 /* hu-HU-iPhone5-4-portrait.png in Resources */,
+				75B84D981B67156900248832 /* ko-KR-iPhone5-0-portrait.png in Resources */,
+				75B84D6B1B67156900248832 /* da-DK-iPhone5-0-portrait.png in Resources */,
+				75B84D871B67156900248832 /* fr-FR-iPhone5-3-portrait.png in Resources */,
 				752972781B65E80900BE756D /* LaunchScreen.xib in Resources */,
+				75B84DB61B67156900248832 /* sv-SE-iPhone5-0-portrait.png in Resources */,
+				75B84D841B67156900248832 /* fr-FR-iPhone5-0-portrait.png in Resources */,
 				752972751B65E80900BE756D /* Images.xcassets in Resources */,
+				75B84DA21B67156900248832 /* nl-NL-iPhone5-0-portrait.png in Resources */,
+				75B84D821B67156900248832 /* es-ES-iPhone5-3-portrait.png in Resources */,
+				75B84D761B67156900248832 /* el-GR-iPhone5-1-portrait.png in Resources */,
+				75B84DA71B67156900248832 /* pl-PL-iPhone5-0-portrait.png in Resources */,
+				75B84DB31B67156900248832 /* sq-AL-iPhone5-2-portrait.png in Resources */,
+				75B84DB51B67156900248832 /* sq-AL-iPhone5-4-portrait.png in Resources */,
+				75B84DA01B67156900248832 /* nb-NO-iPhone5-3-portrait.png in Resources */,
+				75B84DAC1B67156900248832 /* ru-RU-iPhone5-0-portrait.png in Resources */,
+				75B84D861B67156900248832 /* fr-FR-iPhone5-2-portrait.png in Resources */,
+				75B84D9A1B67156900248832 /* ko-KR-iPhone5-2-portrait.png in Resources */,
+				75B84D941B67156900248832 /* ja-JP-iPhone5-1-portrait.png in Resources */,
+				75B84D921B67156900248832 /* it-IT-iPhone5-4-portrait.png in Resources */,
+				75B84D7C1B67156900248832 /* en-US-iPhone5-2-portrait.png in Resources */,
+				75B84DA81B67156900248832 /* pl-PL-iPhone5-1-portrait.png in Resources */,
+				75B84D7D1B67156900248832 /* en-US-iPhone5-3-portrait.png in Resources */,
+				75B84DBF1B67156900248832 /* tr-TR-iPhone5-4-portrait.png in Resources */,
+				75B84DA11B67156900248832 /* nb-NO-iPhone5-4-portrait.png in Resources */,
+				75B84D6D1B67156900248832 /* da-DK-iPhone5-2-portrait.png in Resources */,
+				75B84D851B67156900248832 /* fr-FR-iPhone5-1-portrait.png in Resources */,
+				75B84DB01B67156900248832 /* ru-RU-iPhone5-4-portrait.png in Resources */,
+				75B84D971B67156900248832 /* ja-JP-iPhone5-4-portrait.png in Resources */,
+				75B84D7B1B67156900248832 /* en-US-iPhone5-1-portrait.png in Resources */,
+				75B84D9D1B67156900248832 /* nb-NO-iPhone5-0-portrait.png in Resources */,
+				75B84D791B67156900248832 /* el-GR-iPhone5-4-portrait.png in Resources */,
+				75B84D6C1B67156900248832 /* da-DK-iPhone5-1-portrait.png in Resources */,
+				75B84D831B67156900248832 /* es-ES-iPhone5-4-portrait.png in Resources */,
+				75B84DC11B67156900248832 /* zh_CN-iPhone5-1-portrait.png in Resources */,
+				75B84DC41B67156900248832 /* zh_CN-iPhone5-4-portrait.png in Resources */,
+				75B84DBD1B67156900248832 /* tr-TR-iPhone5-2-portrait.png in Resources */,
+				75B84DA51B67156900248832 /* nl-NL-iPhone5-3-portrait.png in Resources */,
+				75B84D8F1B67156900248832 /* it-IT-iPhone5-1-portrait.png in Resources */,
+				75B84D811B67156900248832 /* es-ES-iPhone5-2-portrait.png in Resources */,
+				75B84DB71B67156900248832 /* sv-SE-iPhone5-1-portrait.png in Resources */,
+				75B84D8A1B67156900248832 /* hu-HU-iPhone5-1-portrait.png in Resources */,
+				75B84DAB1B67156900248832 /* pl-PL-iPhone5-4-portrait.png in Resources */,
+				75B84D6F1B67156900248832 /* da-DK-iPhone5-4-portrait.png in Resources */,
+				75B84D6E1B67156900248832 /* da-DK-iPhone5-3-portrait.png in Resources */,
+				75B84DB41B67156900248832 /* sq-AL-iPhone5-3-portrait.png in Resources */,
+				75B84DC31B67156900248832 /* zh_CN-iPhone5-3-portrait.png in Resources */,
+				75B84D951B67156900248832 /* ja-JP-iPhone5-2-portrait.png in Resources */,
+				75B84DA41B67156900248832 /* nl-NL-iPhone5-2-portrait.png in Resources */,
+				75B84DA61B67156900248832 /* nl-NL-iPhone5-4-portrait.png in Resources */,
+				75B84DB11B67156900248832 /* sq-AL-iPhone5-0-portrait.png in Resources */,
+				75B84D7F1B67156900248832 /* es-ES-iPhone5-0-portrait.png in Resources */,
+				75B84D9C1B67156900248832 /* ko-KR-iPhone5-4-portrait.png in Resources */,
+				75B84D801B67156900248832 /* es-ES-iPhone5-1-portrait.png in Resources */,
+				75B84D931B67156900248832 /* ja-JP-iPhone5-0-portrait.png in Resources */,
+				75B84D8C1B67156900248832 /* hu-HU-iPhone5-3-portrait.png in Resources */,
+				75B84D9E1B67156900248832 /* nb-NO-iPhone5-1-portrait.png in Resources */,
+				75B84D911B67156900248832 /* it-IT-iPhone5-3-portrait.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -254,6 +656,31 @@
 				752972771B65E80900BE756D /* Base */,
 			);
 			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+		75B84DC71B672EAA00248832 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				75B84DC61B672EAA00248832 /* en */,
+				75B84DC81B672EC900248832 /* fr */,
+				75B84DC91B672ED200248832 /* zh-Hans */,
+				75B84DCA1B672EDB00248832 /* de */,
+				75B84DCB1B672EE500248832 /* ja */,
+				75B84DCC1B672EEE00248832 /* es */,
+				75B84DCD1B672EFB00248832 /* it */,
+				75B84DCE1B672F0E00248832 /* nl */,
+				75B84DCF1B672F1800248832 /* ko */,
+				75B84DD01B672F2300248832 /* da */,
+				75B84DD11B672F2F00248832 /* nb */,
+				75B84DD21B672F4B00248832 /* sv */,
+				75B84DD31B672F5300248832 /* ru */,
+				75B84DD41B672F6F00248832 /* pl */,
+				75B84DD51B672F8100248832 /* tr */,
+				75B84DD61B672F9000248832 /* hu */,
+				75B84DD71B672F9D00248832 /* el */,
+				75B84DD81B672FD000248832 /* sq */,
+			);
+			name = Localizable.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
