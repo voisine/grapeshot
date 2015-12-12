@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="7706" systemVersion="14E46" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="vXZ-lx-hvc">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9531" systemVersion="15C50" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="vXZ-lx-hvc">
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
     </dependencies>
+    <customFonts key="customFonts">
+        <mutableArray key="HelveticaNeue.ttc">
+            <string>HelveticaNeue</string>
+        </mutableArray>
+    </customFonts>
     <scenes>
         <!--View Controller-->
         <scene sceneID="ufC-wZ-h7g">
@@ -16,42 +23,44 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="frame" translatesAutoresizingMaskIntoConstraints="NO" id="jzz-Bu-y2t">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="frame" translatesAutoresizingMaskIntoConstraints="NO" id="jzz-Bu-y2t">
                                 <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                                 <gestureRecognizers/>
-                                <constraints>
-                                    <constraint firstAttribute="width" constant="320" id="ez2-X1-JfB"/>
-                                    <constraint firstAttribute="height" constant="568" id="z2c-aa-Foh"/>
-                                </constraints>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="N45-fQ-ZqS">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="N45-fQ-ZqS">
                                 <rect key="frame" x="49" y="156" width="224" height="398"/>
-                                <constraints>
-                                    <constraint firstAttribute="width" constant="224" id="Mpd-D3-uey"/>
-                                    <constraint firstAttribute="height" constant="398" id="kzn-PY-qLi"/>
-                                </constraints>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="12" adjustsLetterSpacingToFitWidth="YES" translatesAutoresizingMaskIntoConstraints="NO" id="enE-ST-JUj">
                                 <rect key="frame" x="10" y="0.0" width="300" height="74"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="74" id="GaG-dU-nQs"/>
-                                </constraints>
                                 <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="25"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <nil key="highlightedColor"/>
                                 <color key="shadowColor" red="0.0" green="0.0" blue="0.0" alpha="0.20000000000000001" colorSpace="calibratedRGB"/>
                                 <size key="shadowOffset" width="0.0" height="1"/>
                             </label>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="2gw-lI-Rec">
+                                <rect key="frame" x="0.0" y="554" width="49.5" height="14"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            </view>
                         </subviews>
                         <color key="backgroundColor" red="1" green="0.5" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
-                            <constraint firstItem="N45-fQ-ZqS" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leading" constant="49.5" id="IqJ-iC-yk9"/>
+                            <constraint firstItem="2gw-lI-Rec" firstAttribute="width" secondItem="kh9-bI-dsS" secondAttribute="width" multiplier="0.155" id="26c-Qx-igC"/>
+                            <constraint firstItem="2gw-lI-Rec" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leading" id="8o5-XO-sX0"/>
+                            <constraint firstItem="2gw-lI-Rec" firstAttribute="height" secondItem="kh9-bI-dsS" secondAttribute="height" multiplier="0.025" id="9Jk-Co-v4y"/>
+                            <constraint firstItem="N45-fQ-ZqS" firstAttribute="width" secondItem="kh9-bI-dsS" secondAttribute="width" multiplier="0.7" id="C4M-WD-5JC"/>
                             <constraint firstItem="enE-ST-JUj" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leading" constant="10" id="PK5-H8-dlv"/>
+                            <constraint firstItem="2fi-mo-0CV" firstAttribute="top" secondItem="2gw-lI-Rec" secondAttribute="bottom" id="T6w-RQ-Y3y"/>
                             <constraint firstAttribute="trailing" secondItem="enE-ST-JUj" secondAttribute="trailing" constant="10" id="UqP-0C-fZ1"/>
+                            <constraint firstItem="N45-fQ-ZqS" firstAttribute="height" secondItem="kh9-bI-dsS" secondAttribute="height" multiplier="0.7" id="WtL-c2-xNp"/>
+                            <constraint firstItem="enE-ST-JUj" firstAttribute="height" secondItem="kh9-bI-dsS" secondAttribute="height" multiplier="0.13" id="ayY-4W-1YT"/>
+                            <constraint firstItem="2gw-lI-Rec" firstAttribute="top" secondItem="N45-fQ-ZqS" secondAttribute="bottom" id="bxk-Jv-L1v"/>
+                            <constraint firstItem="2fi-mo-0CV" firstAttribute="top" secondItem="jzz-Bu-y2t" secondAttribute="bottom" id="dzI-To-NNr"/>
                             <constraint firstItem="jzz-Bu-y2t" firstAttribute="top" secondItem="kh9-bI-dsS" secondAttribute="top" id="fKH-n3-RwB"/>
-                            <constraint firstItem="N45-fQ-ZqS" firstAttribute="top" secondItem="kh9-bI-dsS" secondAttribute="top" constant="156" id="fvI-Ud-Au9"/>
                             <constraint firstItem="enE-ST-JUj" firstAttribute="top" secondItem="kh9-bI-dsS" secondAttribute="top" id="mGh-xy-c5z"/>
+                            <constraint firstItem="jzz-Bu-y2t" firstAttribute="width" secondItem="kh9-bI-dsS" secondAttribute="width" id="pJ1-mG-MwU"/>
                             <constraint firstItem="jzz-Bu-y2t" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leading" id="v5G-3T-1UJ"/>
+                            <constraint firstItem="N45-fQ-ZqS" firstAttribute="leading" secondItem="2gw-lI-Rec" secondAttribute="trailing" id="vQE-Aj-vPF"/>
                         </constraints>
                         <connections>
                             <outletCollection property="gestureRecognizers" destination="nUF-Fu-zB6" appends="YES" id="56M-8K-WPu"/>
@@ -71,6 +80,7 @@
                     </connections>
                 </tapGestureRecognizer>
             </objects>
+            <point key="canvasLocation" x="436" y="442"/>
         </scene>
     </scenes>
     <resources>
